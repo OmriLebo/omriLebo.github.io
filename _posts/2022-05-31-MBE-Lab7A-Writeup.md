@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MBE-Lab7A-Writeup"
+title:  "MBE Lab7A Writeup"
 ---
 
 ## Introduction
